@@ -5,7 +5,7 @@ The Affection Algorithm Calculator, also known as the Flames Calculator, is a fu
 ## Table of Contents
 
 - [Features](#Features)
-- [Usage](#How to Use)
+- [Usage](#Usage)
 - [Example](#Example)
 - [Compatibility](#Compatibility)
 
