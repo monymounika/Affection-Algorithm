@@ -5,7 +5,7 @@ The Affection Algorithm Calculator, also known as the Flames Calculator, is a fu
 ## Table of Contents
 
 - [Features](#Features)
-- [How-to-Use](#How to Use)
+- [Usage](#How to Use)
 - [Example](#Example)
 - [Compatibility](#Compatibility)
 
@@ -16,7 +16,7 @@ The Affection Algorithm Calculator, also known as the Flames Calculator, is a fu
 - Fun and lighthearted way to predict relationship compatibility.
 - Easy-to-use interface.
 
-## How to Use
+## Usage
 
 1. Enter the names of two individuals in the designated fields.
 2. Click the "Calculate" button to determine the relationship status.
